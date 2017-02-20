@@ -1,0 +1,110 @@
+[{
+    "title": "REVENUE",
+    "type": "currency",
+    "currencySign": "€",
+    "data" : [
+        {
+            "val" : 80000,
+            "name"  : "Smarthphone"
+        },
+        {
+            "val" : 120000,
+            "name"  : "Tablet"
+        }
+    ]
+},
+{
+  "title": "IMPRESIONS",
+  "type": "num",
+  "data" : [
+        {
+            "val" : 30000000,
+            "name"  : "Smarthphone"
+        },
+        {
+            "val" : 20000000,
+            "name"  : "Tablet"
+        }
+    ]
+},
+{
+    "title": "VISITS",
+    "type": "num",
+    "data" : [
+        {
+            "val" : 120000000,
+            "name"  : "Smarthphone"
+        },
+        {
+            "val" : 480000000,
+            "name"  : "Tablet"
+        }
+    ]
+},
+{
+    "title": "VISITS",
+    "type": "num",
+    "data" : [
+        {
+            "val" : 12000000,
+            "name"  : "Smarthphone"
+        },
+        {
+            "val" : 48000000,
+            "name"  : "Tablet"
+        },
+        {
+            "val" : 55000000,
+            "name"  : "PC"
+        },
+        {
+            "val" : 3000000,
+            "name"  : "SmartTv"
+        },
+        {
+            "val" : 30000,
+            "name"  : "SmartWatch"
+        }
+    ]
+},
+{
+    "title": "REVENUE",
+    "type": "currency",
+    "currencySign": "€",
+    "data" : [
+        {
+            "val" : 760000,
+            "name"  : "Smarthphone"
+        },
+        {
+            "val" : 1900000,
+            "name"  : "Tablet"
+        },
+        {
+            "val" : 120000,
+            "name"  : "SmartTv"
+        }
+    ]
+},
+{
+  "title": "IMPRESIONS",
+  "type": "num",
+  "data" : [
+        {
+            "val" : 1200000,
+            "name"  : "Smarthphone"
+        },
+        {
+            "val" : 2200000,
+            "name"  : "Tablet"
+        },
+        {
+            "val" : 15000000,
+            "name"  : "PC"
+        },
+        {
+            "val" : 600000,
+            "name"  : "SmartTv"
+        }
+    ]
+}]
